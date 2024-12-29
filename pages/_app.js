@@ -1,5 +1,6 @@
 import "@/styles/globals.css";
 import "@/styles/font-awesome.min.css";
+import "@/styles/ihover.min.css";
 import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
 

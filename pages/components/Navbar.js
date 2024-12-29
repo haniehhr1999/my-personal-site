@@ -12,7 +12,7 @@ const Navbar = () => {
           <Link href="/resume">رزومه</Link>
         </li>
         <li className="mx-3 cursor-pointer">
-          <Link href="">نمونه کارها</Link>
+          <Link href="/portfolio">نمونه کارها</Link>
         </li>
         <li className="mx-3 cursor-pointer">
           <Link href="/blogs">مقالات</Link>
